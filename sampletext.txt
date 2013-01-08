@@ -1,1 +1,2 @@
-﻿sampletext
+﻿・ｿsampletext
+うまく履歴管理できたよ
